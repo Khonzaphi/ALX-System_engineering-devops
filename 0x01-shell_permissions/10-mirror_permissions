@@ -1,2 +1,3 @@
 #!/bin/bash
-chown --reference=hello olleh
+touch olleh
+chmod 354 olleh
