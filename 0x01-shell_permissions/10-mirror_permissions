@@ -1,3 +1,2 @@
 #!/bin/bash
-touch olleh
-chmod 354 olleh
+su chmod 354 olleh
