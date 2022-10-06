@@ -1,2 +1,4 @@
 #!/bin/bash
-cat
+echo Applications Documents Dropbox Movies Pictures Desktop Downloads Library music Public
+less 1-listit
+
